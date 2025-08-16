@@ -5,6 +5,7 @@
 - 📫 How to reach me okoenemakuo04@outlook.com
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: My life is basically a series of "Oops, wrong folder" moments.
+- Skills-- SQL, Python, Excel, Power BI/ Tableau
 
 <!---
 Evelynval-w/Evelynval-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
