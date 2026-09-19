@@ -10,7 +10,6 @@ Final-year computer science student at **EPITA Paris**, specialising in informat
 ### What I'm building
  
 - **[EVFLIX](https://evfix-seven.vercel.app)** — streaming front end with an AI assistant that answers questions about the catalogue in context. *React, Hugging Face, Vercel*
-- **SnapQuest** — Android photo-challenge app, 5-person team. I owned the network layer: BroadcastReceiver, connectivity state, offline handling. *Java, Android SDK*
 - **[SynergyHack](https://github.com/Evelynval-w/synergyhack)** — one dataset across MongoDB, Neo4j and Redis, each chosen for what it's actually good at. *Polyglot persistence*
 - **Dark Scan** — an agent that reads a web page and flags dark patterns. Built at the AMD Developer Hackathon.
 - **GameHub** — games platform split into services talking over a message broker. *Python, FastAPI, RabbitMQ, Docker*
