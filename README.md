@@ -28,7 +28,7 @@ Final-year computer science student at **EPITA Paris**, specialising in informat
 📫 okoeneeve@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/okoene-makuo-56932b259/)
 🤗 [Hugging Face](https://huggingface.co/Evelynval-w)
-🐦 [@EvelynvalMakuo](https://x.com/EvelynvalMakuo)
+
  
 *Languages: English and Igbo (native), French (B1)*
  
