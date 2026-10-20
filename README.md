@@ -3,9 +3,29 @@
 Readme · MD
 ## Hi, I'm Makuo 👋
  
-Final-year computer science student at **EPITA Paris**, specialising in information systems security (SSI). I build where security meets applied AI.
+Final-year computer science student at **EPITA Paris**, building at the intersection of machine learning, AI engineering and data analytics..
  
-🔎 **Looking for a 6-month end-of-study internship from February 2027** — AI soecialist, Machine learning engineer, Security engineering, applied AI, or the overlap.
+🔎 **Looking for a 6-month end-of-study internship from February 2027** — 
+
+Right now I'm working through Andrew Ng's Machine Learning Specialization and building projects from scratch, starting with an invoice late-payment predictor, then a vision classifier and a retrieval-based expert finder. I post each one with its results and its failure cases.
+
+
+
+What I bring
+
+- Python + SQL foundation (IBM Data Analytics Professional Certificate)
+
+- ML experience: a credit risk model built from scratch
+
+- Backend skills: Django, Flask, Spring Boot, microservices
+
+- Freelance AI model evaluation and annotation: I know what makes model outputs good or bad
+
+- Startup experience: market research and creator sourcing at Fracton, an early-stage company
+
+
+
+Recent projects: credit risk ML model, microservices storytelling platform, airline management system.Im looking for a 6-month end-of-study AI/Data internship in France in 2027. If your team is building with AI and needs someone who codes, learns fast and takes data seriously, message me..
  
 ### What I'm building
  
