@@ -1,6 +1,4 @@
 
-
-Readme · MD
 ## Hi, I'm Makuo 👋
  
 Final-year computer science student at **EPITA Paris**, building at the intersection of machine learning, AI engineering and data analytics..
